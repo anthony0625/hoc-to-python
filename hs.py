@@ -7,4 +7,4 @@ class CellObj(object):
 		self.define_geometry()
 		self.define_biophysics()
 
-end
+#end
